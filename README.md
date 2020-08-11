@@ -1,5 +1,5 @@
 # assignment
-This js file contain two function which solution of the given  
+This js file contain two function which are solution to the given  
 Node.JS Programming Questions 
 1. Please create a program for ATM. The ATM would have different number of 
 notes for each denomination. When a user enters an amount to withdraw, it should dispense the minimum number of notes for that amount 
